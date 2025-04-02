@@ -1,185 +1,131 @@
-Meal Suggestion App
+Meal Suggestion App (README file) 
 
-- **Developer**: [Stephen Christie]
-- **Student Number**: [ST10467438]
-- **Group**: [Group 1]
-- **Course**: [Higher Certificate in Web Development and Mobile Application ]
-- **Subject**: [IMAD]
+Developer: [Stephen Christie] 
 
+Student Number: [ST10467438] 
 
-- **GitHub Repository**: [Repository URL]
-- **YouTube Video**: [https://www.youtube.com/watch?v=OAOLeJFalzg]
+Group: [Group 1] 
 
-2. Project Overview
+Course: [Higher Certificate in Web Development and Mobile Application ] 
 
-The Meal Suggestion App is a mobile application developed as part of an assignment in the IMAD subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to Provide the user with a meal suggestion depending on what time of day they enter.
+Subject: [IMAD] 
 
-The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
+GitHub Repository: [https://github.com/IIEWFL/imad5112-assignment-1-StephenChristie12345] 
 
+YouTube Video: [https://youtu.be/OAOLeJFalzg] 
 
-3. App Purpose and Features
+ 
 
-Purpose:
-The main goal of this app is to suggest meals based on what time of day you enter. It was created for someone with a busy schedule and wastes no time in helping someone decide quickly on what they should make to eat at certain times of the day. 
+Project Overview 
 
-Key Features:
-- Feature 1: ["EditText, the EditText feature is where the user will input the time of day and is the key function to the app, once typed in the user will be given a suggestion after pressing the enter button"]
-- Feature 2: [TextView, the text view feature is where the apps meal suggestion will be displayed, it will also give an error handling message if input is incorrectly entered]
-- Feature 3: [Buttons, two buttons have been added into the app and provide the basic function of both clearing the EditText box and Entering the EditTExt box. once the enter button is clicked the app will display a meal suggestion. the clear button will clear the input typed into the EditText box so the user is able to input another time of day]
+The Meal Suggestion App is a mobile application developed as part of an assignment in the IMAD subject. This application was created using Kotlin and Android Studio. The app's primary purpose is to Provide the user with a meal suggestion depending on what time of day they enter. 
 
-These features aim to provide a easy and simple lowing user experience.
+The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions. 
 
+App Purpose and Features 
 
-4. Design Considerations
-------------------------
+Purpose: The main goal of this app is to suggest meals based on what time of day you enter. It was created for someone with a busy schedule and wastes no time in helping someone decide quickly on what they should make to eat at certain times of the day.  
 
-```markdown
-## Design Considerations
+Key Features: 
 
-The design of the Meal Suggestion App was based on the following key considerations:
+Feature 1: ["EditText, the EditText feature is where the user will input the time of day and is the key function to the app, once typed in the user will be given a suggestion after pressing the enter button"] 
 
-1. User Experience: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
-   
-2. Responsiveness: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility.
-   
-3. Simplicity: The design is minimalistic, focusing on core features without overwhelming the user.
-   
-4. Performance: Code optimization was considered to ensure fast response times and low battery usage.
+Feature 2: [TextView, the text view feature is where the apps meal suggestion will be displayed, it will also give an error handling message if input is incorrectly entered] 
 
+Feature 3: [Buttons, two buttons have been added into the app and provide the basic function of both clearing the EditText box and Entering the EditTExt box. once the enter button is clicked the app will display a meal suggestion. the clear button will clear the input typed into the EditText box, so the user is able to input another time of day] 
 
-5. GitHub and GitHub Actions Utilization
-----------------------------------------
-```markdown
-## GitHub and GitHub Actions
+These features aim to provide a easy and simple flowing user experience. 
 
-This project was managed using **GitHub** for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity.
+Design Considerations 
 
-### GitHub Actions:
-I utilized GitHub Actions to automate the build and deployment process. This includes:
+The design of the Meal Suggestion App was based on the following key considerations: 
 
-- Running automated tests to ensure the app’s functionality.
-- Compiling the app into APK and AAB files, which are the formats required for distribution.
-- Uploading these build artifacts to GitHub for easy access.
+User Experience: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience. 
 
-The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission.
+Responsiveness: The app was built to ensure it performs well on different screen sizes, with particular attention to device compatibility. 
 
-6. Screenshots and App Demo
----------------------------
+Simplicity: The design is minimalistic, focusing on core features without overwhelming the user. 
 
+ 
 
-![Screenshot 2](path_to_screenshot_2.png)
-*Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."]*
+GitHub and GitHub Actions Utilization 
 
-### Video Demo:
-A video showcasing the app's functionality can be viewed here: [YouTube Video Link].
-```
+This project was managed using GitHub for version control, where all code changes were committed and pushed regularly. GitHub enabled collaborative coding, allowing me to keep track of changes and maintain project integrity. 
 
-Why:
-----
-- Visuals like screenshots or a video link provide concrete evidence of the app’s functionality. This is an easy way for the reader to see what the app looks like and how it operates.
+GitHub Actions: I utilized GitHub Actions to automate the build and deployment process. This includes: 
 
----
+Running automated tests to ensure the app’s functionality. 
 
-7. Challenges and Learnings
----------------------------
+Compiling the app into APK and AAB files, which are the formats required for distribution. 
 
-```markdown
-## Challenges and Learnings
+Uploading these build artifacts to GitHub for easy access. 
 
-During the development of this project, I encountered several challenges, including:
+The workflow ensures that my project is automatically built and tested every time I push changes, and it simplifies the process of delivering the final APK/AAB files for submission. 
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
-   - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
-   
-2. **Challenge 2**: [Describe another challenge, e.g., "Debugging issues related to Gradle builds."]
-   - **Solution**: [How you solved the challenge.]
+Screenshots and App Demo 
 
-From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
-```
+Caption for screenshot 2: [Describe the context, e.g., "The user profile screen where personal information is updated."] 
 
-Why:
-----
-- Reflecting on challenges and solutions shows growth and problem-solving skills, which are critical for students. It also gives insight into their learning process, which can be valuable to employers.
+Video Demo: A video showcasing the app's functionality can be viewed here: [https://youtu.be/OAOLeJFalzg]. 
 
----
+Challenges and Learnings 
 
-8. Future Enhancements
-----------------------
+During the development of this project, I encountered several challenges, including: 
 
-```markdown
-## Future Enhancements
+Challenge 1: [My First challenge was the lack of visual appeal. my app had no colour and no images. as this is the first time i have ever done something like this i was unsure of how to add images. After a quick youtube video and a bit of experimenting I was able to come up with my design, although basic I was impressed with how i figured it all out] 
 
-While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
+challenge 2: [My main challenge with this project was my lack of understanding ho GitHub works, it was frustrating to navigate but after 2 tutor lessons and a couple of youtube videos and discussions with class mates I was able to execute what the project had required from me.]  
 
-1. **Feature 1**: [Another Main activity file - I would have loved to add a second screen to my app to give it more character, and wor on better designs and image, unfortunately I coulnt execute this]
-2. **Feature 2**: [For my predefined conditions i would have loved to implement a randomizer that randomly selects a meal suggestion from 3 options, unfortunately i could not execute this ]
+challenge 3: [Another challenge that I faced was dealing with error codes. I often didn't understand what the errors were so instead of simply hovering over It and reading the info and suggestions I rewrote my code 3 times into 3 different projects. These errors I soon came to realize were simple spelling and punctuation marks. rewriting the code caused issues later on when i had separate branches merging into different projects. fortunately I was able to force push these branches to successfully submit it to GitHub.] 
 
-9. References
+From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions. 
 
-Image 1 
-image 2 
+Future Enhancements 
 
-10. List of Figures
--------------------
+While the current version of the app provides the core functionality, there are two features that could be added in the future, including: 
 
-```markdown
-## List of Figures
+Feature 1: [Another Main activity file - I would have loved to add a second screen to my app to give it more character, and work on better designs and images, unfortunately I couldn't execute this] 
 
-- **Figure 1**: Screenshot of the app's home screen.
-- **Figure 2**: Screenshot of the user profile screen.
-```
+Feature 2: [For my predefined conditions i would have loved to implement a randomizer that randomly selects a meal suggestion from 3 options, unfortunately i could not execute this] 
 
-Why:
-----
-- This section provides a clear reference to all the images included in the document, which improves readability and helps the lecturer follow along with the visuals.
+ 
 
----
+Referencing  
 
-11. Disclosure of AI Usage in My Assessment
--------------------------------------------
+Image 1:  
 
-```markdown
-## Disclosure of AI Usage in My Assessment
+ (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nutralite.com%2Fblog%2Fnutrition-on-the-go-balanced-tiffin-recipes-for-all-ages%2F&psig=AOvVaw3dD7t6yVRZlwEqSUvb0a_L&ust=1743710524144000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPib8oaSuowDFQAAAAAdAAAAABAE 
 
-## Disclosure of AI Usage in My Assessment
+Picture 
 
-In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
+	Image 2: 
 
-### 1. **Section(s) in which Generative AI was used:**
-- **Question 2.2**: Used AI for brainstorming ideas for the app's features.
-- **Part 5**: Assisted in creating code snippets for setting up GitHub Actions workflows.
-- **Part 3**: Used AI to help improve the grammar and clarity of the report.
+(https://www.google.com/url?       sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fnutrition-typographic-header-therapy-healthy-food-2250115985&psig=AOvVaw3ZDNFiYXXGDeq1CKgdf-Lw&ust=1743710620160000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDaj7SSuowDFQAAAAAdAAAAABAE)Picture 
 
-### 2. **Name of AI Tool(s) Used:**
-- **ChatGPT** (OpenAI)
-- **GitHub Copilot** (GitHub)
+ 
 
-### 3. **Purpose/Intention Behind Use:**
-- **Brainstorming**: Used ChatGPT to generate ideas for the app’s features and functionality.
-- **Meaning Making**: Used AI to clarify some concepts and gain a better understanding of how certain technologies (e.g., GitHub Actions) work.
-- **Initial Investigation**: Utilized AI to conduct research on best practices for Android app development and GitHub Actions setup.
-- **Code Assistance**: GitHub Copilot was used to assist in writing specific parts of the code, such as setting up GitHub Actions and working with Gradle.
-- **Correcting Grammar and Spelling**: ChatGPT helped review and correct the grammar and clarity of my project report.
+List of Figures 
 
-### 4. **Date(s) in Which Generative AI Was Used:**
-- **Question 2.2**: AI used on **March 5, 2025** for brainstorming feature ideas.
-- **Part 5**: AI used on **March 8, 2025** to help set up GitHub Actions.
-- **Part 3**: AI used on **March 10, 2025** for reviewing the final report.
+ 
 
-### 5. **Link to the AI Chat(s) or Screenshots:**
-- **Chat 1 (Brainstorming App Features)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI provided feature ideas for app development)*
+Figure 1: Screenshot of the app's home screen. 
 
-- **Chat 2 (GitHub Actions Workflow Setup)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI assisted with configuring GitHub Actions for the project)*
+Picture 
 
-- **Chat 3 (Grammar Review)**: [Link to the AI conversation/chat](insert_link_here)  
-  *(Screenshot/Link to Chat: AI helped in reviewing and correcting the report’s grammar)*
+ 
 
-```
+ 
 
-Why:
-----
-- This section ensures that students are transparent about using AI tools in their project, promoting academic honesty and adhering to institution guidelines.
+Disclosure of AI Usage in My Assessment 
 
----
+In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used: 
+
+Section in which Generative AI was used: 
+
+Question 6: Used AI for helping understand GitHub and the repository and to undo mistakes. Here is a link to the chat - (https://chatgpt.com/c/67ec6241-2dac-8006-9f73-4fafe5fb4cf6) 
+
+Name of AI Tool Used: 
+
+ChatGPT (OpenAI) 
+
+ 
