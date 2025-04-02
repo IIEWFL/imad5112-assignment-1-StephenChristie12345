@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main)  //// defines UI
 
 ///Defined conponment from varibale to define the xml
         //<> this tells the viewbyid what type to expect
@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
             else if (inputText == "Dessert") {
                 outputText = "Cake"
             }
-            else {
+            else {                ////Error Handling
                 outputText = "Invalid Time Of Day, Please Input (Morning, Mid-morning, Afternoon, Mid-afternoon, Dinner, Dessert)"
 
             }
